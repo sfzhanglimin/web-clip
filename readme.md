@@ -10,4 +10,7 @@
 ### 文档
 - [C/C++面向WebAssembly编程](https://www.hellobit.com.cn/b/767368973)
 
-- ![](https://docs.godotengine.org/zh-cn/4.x/_static/docs_logo.svg = 50X50) [Godot Engine](https://docs.godotengine.org/zh-cn/4.x/index.html#)
+- [Godot Engine](https://docs.godotengine.org/zh-cn/4.x/index.html#) ![](https://docs.godotengine.org/zh-cn/4.x/_static/docs_logo.svg)
+
+
+- [Cocos Creator论坛精华帖](https://xj2e22fpu6.feishu.cn/docx/PU5Tdu8oHo1SbQxNOm8c2gWEnrg)
