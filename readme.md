@@ -10,7 +10,9 @@
 ### 文档
 - [C/C++面向WebAssembly编程](https://www.hellobit.com.cn/b/767368973)
 
-- [Godot Engine](https://docs.godotengine.org/zh-cn/4.x/index.html#) ![](https://docs.godotengine.org/zh-cn/4.x/_static/docs_logo.svg)
+- 📖 [Godot Engine](https://docs.godotengine.org/zh-cn/4.x/index.html#)
 
+- 📄 [Cocos Creator论坛精华帖](https://xj2e22fpu6.feishu.cn/docx/PU5Tdu8oHo1SbQxNOm8c2gWEnrg)
 
-- [Cocos Creator论坛精华帖](https://xj2e22fpu6.feishu.cn/docx/PU5Tdu8oHo1SbQxNOm8c2gWEnrg)
+- ![icon](https://gpp.tkchu.me/images/favicon-16x16.png)
+ [游戏编程模式](https://gpp.tkchu.me/)
