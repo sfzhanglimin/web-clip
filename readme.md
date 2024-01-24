@@ -20,3 +20,5 @@
 
 - ![icon](https://gpp.tkchu.me/images/favicon-16x16.png)
  [游戏编程模式](https://gpp.tkchu.me/)
+
+- [service worker(html缓存机制修改)](https://developer.mozilla.org/zh-CN/docs/Web/API/Service_Worker_API/Using_Service_Workers)
