@@ -1,0 +1,2 @@
+gif->mp4   不使用scale=trunc(iw/2)*2:trunc(ih/2)*2,format=yuv420p safari平台的颜色不对
+ffmpeg -i logo.gif -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2,format=yuv420p" -b:v 64K -c:v libx264 logo.mp4
